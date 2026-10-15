@@ -1,0 +1,7 @@
+node_modules
+server/generated
+dist
+data
+package-lock.json
+prisma/migrations
+test-results
